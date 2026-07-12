@@ -23,4 +23,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2487-remove-nodes-from-linked-list](https://github.com/Avi3784/leetcode/tree/master/2487-remove-nodes-from-linked-list) |
+## Array
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/Avi3784/leetcode/tree/master/0704-binary-search) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/Avi3784/leetcode/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
