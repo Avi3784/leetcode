@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/Avi3784/leetcode/tree/master/0069-sqrtx) |
 | [0445-add-two-numbers-ii](https://github.com/Avi3784/leetcode/tree/master/0445-add-two-numbers-ii) |
 ## Stack
 |  |
@@ -30,5 +31,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/Avi3784/leetcode/tree/master/0069-sqrtx) |
 | [0704-binary-search](https://github.com/Avi3784/leetcode/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
