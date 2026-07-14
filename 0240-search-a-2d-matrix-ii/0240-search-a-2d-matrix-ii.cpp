@@ -1,30 +1,20 @@
 class Solution {
 public:
     bool searchMatrix(vector<vector<int>>& matrix, int target) {
-        int row = matrix.size();
-        int col = matrix[0].size();
-
-        for(int i = 0; i < row; i++) {
-
-            int left = 0;
-            int right = col - 1;
-
-            while(left <= right) {
-
-                int mid = left + (right - left) / 2;
-
-                if(matrix[i][mid] == target) {
-                    return true;
-                }
-                else if(matrix[i][mid] > target) {
-                    right = mid - 1;
-                }
-                else {
-                    left = mid + 1;
-                }
+        int row=matrix.size();
+        int col=matrix[0].size();
+        int i=0;
+        int j=col-1;
+        while(j>=0 && i<row){
+            if(matrix[i][j]==target){
+                return true ;
             }
+            else if(matrix[i][j]>target){
+                j--;
+            }
+            else
+            i++;
         }
-
         return false;
     }
 };
