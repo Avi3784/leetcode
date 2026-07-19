@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Avi3784/leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Avi3784/leetcode/tree/master/1552-magnetic-force-between-two-balls) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/Avi3784/leetcode/tree/master/1870-minimum-speed-to-arrive-on-time) |
+| [2239-find-closest-number-to-zero](https://github.com/Avi3784/leetcode/tree/master/2239-find-closest-number-to-zero) |
 ## Binary Search
 |  |
 | ------- |
