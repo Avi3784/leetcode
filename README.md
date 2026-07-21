@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/Avi3784/leetcode/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/Avi3784/leetcode/tree/master/0069-sqrtx) |
 | [0445-add-two-numbers-ii](https://github.com/Avi3784/leetcode/tree/master/0445-add-two-numbers-ii) |
 ## Stack
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/Avi3784/leetcode/tree/master/0050-powx-n) |
 | [2487-remove-nodes-from-linked-list](https://github.com/Avi3784/leetcode/tree/master/2487-remove-nodes-from-linked-list) |
 ## Monotonic Stack
 |  |
