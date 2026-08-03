@@ -195,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/Avi3784/leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0692-top-k-frequent-words](https://github.com/Avi3784/leetcode/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/Avi3784/leetcode/tree/master/0767-reorganize-string) |
+| [1189-maximum-number-of-balloons](https://github.com/Avi3784/leetcode/tree/master/1189-maximum-number-of-balloons) |
 ## Hash Function
 |  |
 | ------- |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Avi3784/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0692-top-k-frequent-words](https://github.com/Avi3784/leetcode/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/Avi3784/leetcode/tree/master/0767-reorganize-string) |
+| [1189-maximum-number-of-balloons](https://github.com/Avi3784/leetcode/tree/master/1189-maximum-number-of-balloons) |
 ## Two Pointers
 |  |
 | ------- |
@@ -253,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Avi3784/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0692-top-k-frequent-words](https://github.com/Avi3784/leetcode/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/Avi3784/leetcode/tree/master/0767-reorganize-string) |
+| [1189-maximum-number-of-balloons](https://github.com/Avi3784/leetcode/tree/master/1189-maximum-number-of-balloons) |
 ## Trie
 |  |
 | ------- |
