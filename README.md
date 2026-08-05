@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Avi3784/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Avi3784/leetcode/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/Avi3784/leetcode/tree/master/0169-majority-element) |
+| [0198-house-robber](https://github.com/Avi3784/leetcode/tree/master/0198-house-robber) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Avi3784/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Avi3784/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Avi3784/leetcode/tree/master/0347-top-k-frequent-elements) |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/Avi3784/leetcode/tree/master/0070-climbing-stairs) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Avi3784/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0198-house-robber](https://github.com/Avi3784/leetcode/tree/master/0198-house-robber) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
