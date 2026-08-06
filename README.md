@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Avi3784/leetcode/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/Avi3784/leetcode/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/Avi3784/leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Avi3784/leetcode/tree/master/0070-climbing-stairs) |
 | [0445-add-two-numbers-ii](https://github.com/Avi3784/leetcode/tree/master/0445-add-two-numbers-ii) |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Avi3784/leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Avi3784/leetcode/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/Avi3784/leetcode/tree/master/0091-decode-ways) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Avi3784/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -286,4 +288,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Avi3784/leetcode/tree/master/0070-climbing-stairs) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Avi3784/leetcode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
