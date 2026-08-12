@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/Avi3784/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Avi3784/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0416-partition-equal-subset-sum](https://github.com/Avi3784/leetcode/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/Avi3784/leetcode/tree/master/0494-target-sum) |
 | [0502-ipo](https://github.com/Avi3784/leetcode/tree/master/0502-ipo) |
 | [0692-top-k-frequent-words](https://github.com/Avi3784/leetcode/tree/master/0692-top-k-frequent-words) |
 | [0704-binary-search](https://github.com/Avi3784/leetcode/tree/master/0704-binary-search) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0113-path-sum-ii](https://github.com/Avi3784/leetcode/tree/master/0113-path-sum-ii) |
+| [0494-target-sum](https://github.com/Avi3784/leetcode/tree/master/0494-target-sum) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -245,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/Avi3784/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0198-house-robber](https://github.com/Avi3784/leetcode/tree/master/0198-house-robber) |
 | [0416-partition-equal-subset-sum](https://github.com/Avi3784/leetcode/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/Avi3784/leetcode/tree/master/0494-target-sum) |
 | [0746-min-cost-climbing-stairs](https://github.com/Avi3784/leetcode/tree/master/0746-min-cost-climbing-stairs) |
 ## Heap (Priority Queue)
 |  |
@@ -303,8 +306,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/Avi3784/leetcode/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/Avi3784/leetcode/tree/master/0494-target-sum) |
 ## 0-1 Knapsack
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/Avi3784/leetcode/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/Avi3784/leetcode/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
