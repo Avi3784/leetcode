@@ -203,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String Matching
 |  |
 | ------- |
+| [0072-edit-distance](https://github.com/Avi3784/leetcode/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/Avi3784/leetcode/tree/master/0091-decode-ways) |
 | [0383-ransom-note](https://github.com/Avi3784/leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Avi3784/leetcode/tree/master/0387-first-unique-character-in-a-string) |
@@ -255,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/Avi3784/leetcode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Avi3784/leetcode/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/Avi3784/leetcode/tree/master/0070-climbing-stairs) |
+| [0072-edit-distance](https://github.com/Avi3784/leetcode/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/Avi3784/leetcode/tree/master/0091-decode-ways) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Avi3784/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0198-house-robber](https://github.com/Avi3784/leetcode/tree/master/0198-house-robber) |
