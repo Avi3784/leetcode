@@ -206,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0091-decode-ways](https://github.com/Avi3784/leetcode/tree/master/0091-decode-ways) |
 | [0383-ransom-note](https://github.com/Avi3784/leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Avi3784/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0516-longest-palindromic-subsequence](https://github.com/Avi3784/leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0572-subtree-of-another-tree](https://github.com/Avi3784/leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0583-delete-operation-for-two-strings](https://github.com/Avi3784/leetcode/tree/master/0583-delete-operation-for-two-strings) |
 | [0692-top-k-frequent-words](https://github.com/Avi3784/leetcode/tree/master/0692-top-k-frequent-words) |
@@ -257,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/Avi3784/leetcode/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/Avi3784/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/Avi3784/leetcode/tree/master/0494-target-sum) |
+| [0516-longest-palindromic-subsequence](https://github.com/Avi3784/leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/Avi3784/leetcode/tree/master/0518-coin-change-ii) |
 | [0583-delete-operation-for-two-strings](https://github.com/Avi3784/leetcode/tree/master/0583-delete-operation-for-two-strings) |
 | [0746-min-cost-climbing-stairs](https://github.com/Avi3784/leetcode/tree/master/0746-min-cost-climbing-stairs) |
