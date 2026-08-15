@@ -209,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/Avi3784/leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0692-top-k-frequent-words](https://github.com/Avi3784/leetcode/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/Avi3784/leetcode/tree/master/0767-reorganize-string) |
+| [1092-shortest-common-supersequence](https://github.com/Avi3784/leetcode/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/Avi3784/leetcode/tree/master/1143-longest-common-subsequence) |
 | [1189-maximum-number-of-balloons](https://github.com/Avi3784/leetcode/tree/master/1189-maximum-number-of-balloons) |
 ## Hash Function
@@ -257,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/Avi3784/leetcode/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/Avi3784/leetcode/tree/master/0518-coin-change-ii) |
 | [0746-min-cost-climbing-stairs](https://github.com/Avi3784/leetcode/tree/master/0746-min-cost-climbing-stairs) |
+| [1092-shortest-common-supersequence](https://github.com/Avi3784/leetcode/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/Avi3784/leetcode/tree/master/1143-longest-common-subsequence) |
 ## Heap (Priority Queue)
 |  |
@@ -331,5 +333,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Longest Common Subsequence
 |  |
 | ------- |
+| [1092-shortest-common-supersequence](https://github.com/Avi3784/leetcode/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/Avi3784/leetcode/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
