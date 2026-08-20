@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Avi3784/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Avi3784/leetcode/tree/master/0035-search-insert-position) |
 | [0063-unique-paths-ii](https://github.com/Avi3784/leetcode/tree/master/0063-unique-paths-ii) |
+| [0073-set-matrix-zeroes](https://github.com/Avi3784/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Avi3784/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Avi3784/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Avi3784/leetcode/tree/master/0162-find-peak-element) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/Avi3784/leetcode/tree/master/0063-unique-paths-ii) |
+| [0073-set-matrix-zeroes](https://github.com/Avi3784/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Avi3784/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Avi3784/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 ## Divide and Conquer
@@ -239,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Avi3784/leetcode/tree/master/0001-two-sum) |
+| [0073-set-matrix-zeroes](https://github.com/Avi3784/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/Avi3784/leetcode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/Avi3784/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/Avi3784/leetcode/tree/master/0383-ransom-note) |
