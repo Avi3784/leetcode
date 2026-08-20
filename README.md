@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Avi3784/leetcode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Avi3784/leetcode/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/Avi3784/leetcode/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/Avi3784/leetcode/tree/master/0069-sqrtx) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Avi3784/leetcode/tree/master/0001-two-sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Avi3784/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Avi3784/leetcode/tree/master/0035-search-insert-position) |
+| [0048-rotate-image](https://github.com/Avi3784/leetcode/tree/master/0048-rotate-image) |
 | [0063-unique-paths-ii](https://github.com/Avi3784/leetcode/tree/master/0063-unique-paths-ii) |
 | [0073-set-matrix-zeroes](https://github.com/Avi3784/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Avi3784/leetcode/tree/master/0074-search-a-2d-matrix) |
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Avi3784/leetcode/tree/master/0048-rotate-image) |
 | [0063-unique-paths-ii](https://github.com/Avi3784/leetcode/tree/master/0063-unique-paths-ii) |
 | [0073-set-matrix-zeroes](https://github.com/Avi3784/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Avi3784/leetcode/tree/master/0074-search-a-2d-matrix) |
